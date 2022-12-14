@@ -1,0 +1,19 @@
+.channel-messages-container {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: #424549;
+}
+
+.all-messages {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 2rem 0 0 0;
+  overflow-y: scroll;
+}
+
+.single-user-message {
+  list-style: none;
+}

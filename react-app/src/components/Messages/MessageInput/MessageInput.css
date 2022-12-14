@@ -1,0 +1,19 @@
+.create-message-form {
+  width: auto;
+  margin: 2rem;
+  display: flex;
+}
+
+.message-content-input {
+  background-color: #55585b;
+  border-radius: 5px;
+  font-size: 1.4rem;
+  height: 4rem;
+  width: 100%;
+  color: #d9dadb;
+  padding: 1rem;
+}
+
+.create-message-btn {
+  display: none;
+}

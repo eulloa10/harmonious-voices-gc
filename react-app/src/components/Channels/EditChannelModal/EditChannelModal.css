@@ -1,0 +1,11 @@
+.fa-solid.fa-gear {
+  color: #c3c4c5;
+  cursor: pointer;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
+
+.fa-solid.fa-gear:hover {
+  color: #ebebec;
+}

@@ -1,0 +1,8 @@
+.create-channel-plus {
+  color: #c3c4c5;
+  cursor: pointer;
+}
+
+.create-channel-plus:hover {
+  color: #ebebec;
+}
